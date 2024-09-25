@@ -1,4 +1,4 @@
-LINK DESPLEGADO EN VERCEL = https://react-vercel-pcau-5djepyglt-giovannis-projects-41370595.vercel.app/
+LINK DESPLEGADO EN VERCEL = https://react-vercel-pcau.vercel.app/
 
 
 
